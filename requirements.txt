@@ -50,3 +50,4 @@ wikipedia
 arxiv
 pubmed
 altair
+streamlit-option-menu
